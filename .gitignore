@@ -1,0 +1,16 @@
+.DS_Store
+.idea
+.idea/*
+dbases/*
+venv/
+
+# PyBuilder
+target/
+
+# pyenv
+.python-version
+
+purepythonenv/
+functions/__pycache__
+
+client_secrets.json
